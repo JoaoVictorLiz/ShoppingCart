@@ -1,12 +1,6 @@
 # ShoppingCart
 Um Carrinho de Compras feito em PHP&amp;MySQL, simples porém funcional.
 
-## Veja como fica
-
-<p align"center">
-  <img width="570" height="500" src="https://github.com/BaronSatoshi/ShoppingCart/blob/main/print%20Shopping%20Cart.png">
-</p><br>
-
 Para ver em seu computador siga esse passos:
 
 1 - Baixe um servidor próprio para executar esse código, eu utilizei o Wampserver.<br>
