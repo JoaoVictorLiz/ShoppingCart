@@ -1,0 +1,20 @@
+body{
+    width: 100%;
+    background: linear-gradient( 45deg, #ff4eff, #00687d, #002156);
+    background-size: 500% 100%;
+    animation-name: degrade;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    color: white;
+}
+
+@keyframes degrade{
+    0%{
+        background-position: 0%;
+    }
+
+    100%{
+        background-position: 100%;
+    }
+}
